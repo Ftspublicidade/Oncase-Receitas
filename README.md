@@ -1,7 +1,26 @@
 # Oncase-Receitas
 Repositório com todos os arquivos e códigos utilizados para realizar o desafio.
 
-# Desafio: Arquivo: receitas.json - Sample ao final
+## Critérios
+
+Avaliaremos - os quesitos não estão necessariamente em ordem de prioridade:
+
+* Sua capacidade na compreensão e modelagem dos dados e problbemas;
+* Qualidade e proeficiência codificando na linguagem de sua escolha (R, Python);
+* Qualidade das soluções encontradas para responder às perguntas;
+* Comunicação na hora de questionar itens que não estejam claros;
+* Comunicação visual eficaz (escrita e gráficos) no embasamento as respostas;
+* Utilização de métodos adequados para cada problema;
+* Análise de estudo e performance quando a resposta envolver a criação de modelos;
+
+Conta ponto também:
+
+* Aspectos de organização de código;
+* Aspectos que demonstrem alguma maturidade em Data engineering/DataOps
+* Repetibilidade do notebook
+
+
+# Exercício: Arquivo: receitas.json - Sample ao final
 
 1. A categorias pertencem as comidas mais calóricas?
 2. Quais os top 10 ingredientes contidos nas receitas mais calóricas?
