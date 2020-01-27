@@ -85,6 +85,7 @@ Sample:
 }
 ```
 
-
+## Para finalizar gostaria de informar que essa solução pode ser melhorada, como por exemplo, conversando com uma pessoa da área do negócio, que nesse caso saõ alimentos e suas informações nutricionais, podendo assim, aplicar técnicas como substituição dos valores nulos por um número muito próximo da realidade. Podemos até mesmo aplicar ténicas estatísticas mais avançadas. Em um trabalho de ciência de dados é muito importante a participação do especialista do negócio para subsidiar o cientista de dados de informações que ele por não ser da área não possui conhecimento, evitando assim, as chances de criar um modelo ou relatório enviesado.
+## Com relação a questão opcional, devido ao tempo não foi possível criar a solução mas poderia ter sido feita aplicando técnicas de NLP para o tratamento das features e em seguida testando alguns classificadores através de pipelines e verificando qual obteve uma melhor acurácia, podendo aplicar uma engenharia de features caso o comportamento dos classificadores não estejam se saindo bem.
 
 
